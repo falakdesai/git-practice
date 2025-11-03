@@ -1,3 +1,6 @@
 Hi
 This is
 A Sample Git File
+And
+Just Now I Have Changed It
+As a part of Small Change
